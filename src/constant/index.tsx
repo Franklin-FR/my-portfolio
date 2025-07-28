@@ -16,7 +16,6 @@ import { SiReact, SiTypescript, SiNodedotjs, SiMysql } from 'react-icons/si';
 // import yompay from '../assets/yompay.png'
 import hero_bg from '../assets/hero_bg.jpg'
 import YompayLanding from '../assets/YompayLanding.jpg'
-import arcKitchen from '../assets/arcKitchen.svg'
 import zulfah from '../assets/zulfah.png'
 import genialsta from '../assets/genialsta.png'
 import yompayLogo from '../assets/yompayLogo.png'
