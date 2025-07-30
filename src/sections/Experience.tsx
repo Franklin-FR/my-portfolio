@@ -25,7 +25,7 @@ const Experience = () => {
       {/* download resume */}
      
 
-   <a href="/Omoregie Franklyn Edamwen_FULLSTACK.pdf" download>
+   <a href="/OMOREGIE_FRANKLYN_EDAMWEN.pdf" download>
   <div className="bg-white w-fit px-4 py-3 rounded-lg mt-5">
     <div className="flex items-center justify-between bg-black px-4 py-2 rounded-md cursor-pointer hover:bg-gray-900 gap-3">
       <p className="text-white font-medium whitespace-nowrap">Download Resume</p>
