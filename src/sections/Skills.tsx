@@ -1,4 +1,3 @@
-import React from 'react'
 import { technologies } from '../constant'
 import Technology from '../components/Technology'
 

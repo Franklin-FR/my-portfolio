@@ -12,7 +12,7 @@ import javascript from '../assets/javascript.png'
 import node from '../assets/node.png'
 import typescript from '../assets/typescript.png'
 // import { SiReact, SiTypescript, SiNodedotjs } from 'react-icons/si';
-import { SiReact, SiTypescript, SiNodedotjs, SiMysql } from 'react-icons/si';
+import { SiReact, SiTypescript, SiNodedotjs } from 'react-icons/si';
 // import yompay from '../assets/yompay.png'
 import hero_bg from '../assets/hero_bg.jpg'
 import YompayLanding from '../assets/YompayLanding.jpg'

@@ -1,9 +1,7 @@
-import React from 'react'
 import ExperienceCard from '../components/ExperienceCard'
 import { experiences } from '../constant'
 import { motion } from 'framer-motion'
 import downloadIcon from '../assets/downloadIcon.svg'
-// import ResumeDownload from '../components/ResumeDownload'
 
 const Experience = () => {
   return (

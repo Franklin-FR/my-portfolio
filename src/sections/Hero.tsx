@@ -1,7 +1,5 @@
-import React from 'react'
 import heroBg from '../assets/hero_bg.jpg'
 import profileImg from '../assets/franklyn.jpg'
-
 
 
 const Hero = () => {

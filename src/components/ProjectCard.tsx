@@ -1,4 +1,3 @@
-import React from 'react';
 import { FaGithub } from 'react-icons/fa';
 import { FiExternalLink } from 'react-icons/fi';
 import type { IconType } from 'react-icons';

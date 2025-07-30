@@ -1,4 +1,3 @@
-import React from 'react';
 import { projects } from '../constant'; // your array of projects
 import ProjectCard from '../components/ProjectCard';
 import { motion } from 'framer-motion';

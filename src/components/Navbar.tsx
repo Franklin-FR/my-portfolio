@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import github from '../assets/github.svg';
 import linkedIn from '../assets/linkedIn.svg';
 import instagram from '../assets/instagram.svg';

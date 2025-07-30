@@ -1,7 +1,5 @@
-import React from 'react'
 import About from './About'
 import RoleCard from '../components/RoleCard'
-// import frontend from '../assets/frontend.png'
 import { roles } from '../constant'
 import Skills from './Skills'
 import Projects from './Projects'
