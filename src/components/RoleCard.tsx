@@ -1,4 +1,3 @@
-import React from 'react';
 
 type RoleCardProps = {
   image: any; // or string or StaticImageData
